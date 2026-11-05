@@ -1,4 +1,5 @@
 ---
+title: "Mitochondrial Biology & Aging"
 layout: splash
 ---
 ## Research Interests

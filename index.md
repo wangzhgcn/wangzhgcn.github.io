@@ -1,9 +1,8 @@
 ---
-layout: single
+layout: splash
 author_profile: false
 classes: wide
 ---
-
 ## Research Interests
 
 My research focuses on mitochondrial molecular regulation and its roles in cellular aging, with particular emphasis on mitochondrial RNA modifications, gene expression, and mitochondrial homeostasis.

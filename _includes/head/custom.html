@@ -6,15 +6,9 @@
 {% for link in site.data.navigation.main %}
   {% if link.url == page.url %}
     .masthead__menu-item a[href="{{ link.url | relative_url }}"] {
-      background-color: #e3eeea;
-      color: #174f45;
-      border-radius: 5px;
+      color: #174f45 !important;
       font-weight: 600;
     }
   {% endif %}
 {% endfor %}
-/* 导航栏标签间距 */
-.masthead__menu-item a {
-  padding: 10px 14px;
-}
 </style>

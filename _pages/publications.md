@@ -3,11 +3,9 @@ permalink: /publications/
 ---
 ## Selected publications
 
-**Wang Z**, Li Z, Liu H, Yang C, **Li X***. Mitochondrial clonal mosaicism encodes a biphasic molecular clock of aging. **Nat Aging**. 2025 Aug;5(8):1637-1651. doi: 10.1186/s13073-026-01653-7.
+**Wang Z**, Li Z, Liu H, Yang C, Li X*. Mitochondrial clonal mosaicism encodes a biphasic molecular clock of aging. **Nat Aging**. 2025 Aug;5(8):1637-1651. doi: 10.1186/s13073-026-01653-7.
 
 ## All publications
-
-### Before 2027
 
 Pei X, Zhang J, Gao Y, Pan Z, Wang Y, Wang L, **Wang Z**, Ding GB, Stauber RH, Ni T, Hao S. Protein Lysine Lactylation in DNA Damage Response: Regulatory Mechanisms and Emerging Functions. **Biomolecules**. 2026 Oct 20;16(10):1528. doi: 10.3390/biom16101528.
 

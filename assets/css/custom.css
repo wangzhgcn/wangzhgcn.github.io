@@ -1,0 +1,5 @@
+/* Splash页面顶部间距 */
+.layout--splash .page__content {
+  padding-top: 40px;
+}
+

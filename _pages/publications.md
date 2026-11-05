@@ -1,9 +1,6 @@
 ---
 title: "Publications"
 permalink: /publications/
-layout: splash
-author_profile: false
-classes: wide
 ---
 ## Selected publications
 

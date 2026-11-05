@@ -1,7 +1,6 @@
 ---
-layout: splash
-author_profile: false
-classes: wide
+
+
 ---
 ## Research Interests
 

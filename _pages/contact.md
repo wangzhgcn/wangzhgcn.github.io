@@ -1,9 +1,6 @@
 ---
 title: "Contact"
 permalink: /contact/
-layout: splash
-author_profile: false
-classes: wide
 ---
 ---
 

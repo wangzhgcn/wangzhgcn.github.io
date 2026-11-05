@@ -1,5 +1,4 @@
 ---
-title: "Publications"
 permalink: /publications/
 ---
 ## Selected publications
@@ -10,7 +9,7 @@ permalink: /publications/
 
 ### Before 2027
 
-Pei X, Zhang J, Gao Y, Pan Z, Wang Y, Wang L, **Wang Z**, Ding GB, Stauber RH, Ni T*, Hao S*. Protein Lysine Lactylation in DNA Damage Response: Regulatory Mechanisms and Emerging Functions. **Biomolecules**. 2026 Oct 20;16(10):1528. doi: 10.3390/biom16101528.
+Pei X, Zhang J, Gao Y, Pan Z, Wang Y, Wang L, **Wang Z**, Ding GB, Stauber RH, Ni T, Hao S. Protein Lysine Lactylation in DNA Damage Response: Regulatory Mechanisms and Emerging Functions. **Biomolecules**. 2026 Oct 20;16(10):1528. doi: 10.3390/biom16101528.
 
 Liu X, Chen Z, Jiang Q, Shen H, Liu H, **Wang Z**, Li Z, Wu J, Jiang H, Li X. Tissue-specific gene dosage disruption is a key feature and pathogenic mechanism of structural variants in the human genome. **Genome Med.** 2026 Apr 18;18(1):76. doi: 10.1186/s13073-026-01653-7.
 

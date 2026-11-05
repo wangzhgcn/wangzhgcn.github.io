@@ -1,6 +1,5 @@
 ---
-
-
+layout: splash
 ---
 ## Research Interests
 

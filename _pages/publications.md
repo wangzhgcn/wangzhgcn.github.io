@@ -11,7 +11,7 @@ Pei X, Zhang J, Gao Y, Pan Z, Wang Y, Wang L, **Wang Z**, Ding GB, Stauber RH, N
 
 Liu X, Chen Z, Jiang Q, Shen H, Liu H, **Wang Z**, Li Z, Wu J, Jiang H, Li X. Tissue-specific gene dosage disruption is a key feature and pathogenic mechanism of structural variants in the human genome. **Genome Med.** 2026 Apr 18;18(1):76. doi: 10.1186/s13073-026-01653-7.
 
-**Wang Z**, Li Z, Liu H, Yang C, Li X*. Mitochondrial clonal mosaicism encodes a biphasic molecular clock of aging. **Nat Aging**. 2025 Aug;5(8):1637-1651. doi: 10.1186/s13073-026-01653-7.
+**Wang Z**, Li Z, Liu H, Yang C, Li X*. Mitochondrial clonal mosaicism encodes a biphasic molecular clock of aging. **Nat Aging**. 2025 Aug;5(8):1637-1651. doi: 10.1038/s43587-025-00890-6.
 
 Liu X, Hu F, Zhang D, Li Z, He J, Zhang S, **Wang Z**, Zhao Y, Wu J, Liu C, Li C, Li X, Wu J. Whole genome sequencing enables new genetic diagnosis for inherited retinal diseases by identifying pathogenic variants. **NPJ Genom Med**. 2024 Jan 20;9(1):6. doi: 10.1038/s41525-024-00391-2.
 

@@ -3,7 +3,7 @@ permalink: /publications/
 ---
 ## Selected publications
 
-**Wang Z**, Li Z, Liu H, Yang C, Li X*. Mitochondrial clonal mosaicism encodes a biphasic molecular clock of aging. **Nat Aging**. 2025 Aug;5(8):1637-1651. doi: 10.1186/s13073-026-01653-7.
+**Wang Z**, Li Z, Liu H, Yang C, Li X*. Mitochondrial clonal mosaicism encodes a biphasic molecular clock of aging. **Nat Aging**. 2025 Aug;5(8):1637-1651. doi: 10.1038/s43587-025-00890-6.
 
 ## All publications
 
